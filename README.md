@@ -32,11 +32,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amsayandeep&show_icons=true&locale=en" alt="amsayandeep" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amsayandeep&" alt="amsayandeep" /></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amsayandeep/amsayandeep/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amsayandeep/amsayandeep/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/amsayandeep/amsayandeep/output/github-contribution-grid-snake.svg">
-  </picture>
+
+
+
 <code height=100 width=200>████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
 ███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
