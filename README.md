@@ -32,7 +32,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amsayandeep&show_icons=true&locale=en" alt="amsayandeep" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amsayandeep&" alt="amsayandeep" /></p>
-<code>████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
+![Snake animation](https://github.com/amsayandeep/amsayandeep/blob/output/github-contribution-grid-snake.svg)
+<code height=100 width=200>████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
 ███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
 ████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
