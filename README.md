@@ -31,6 +31,8 @@
 <img width="50%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966">
 
 # 📊 GitHub Stats:
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif">
+
 ![](https://github-readme-stats.vercel.app/api?username=amsayandeep&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amsayandeep&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amsayandeep&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
