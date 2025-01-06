@@ -1,12 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Greetings! i'm sayandeep ghosh</h1>
+<h1 align="center">𝑔reetings! i'm sayandeep ghosh</h1>
 <h3 align="center">a passionate full stack & machine learning student treading through his 20s :)</h3>
 
 <p align="left"> <a href="https://twitter.com/sayandeep_x" target="blank"><img src="https://img.shields.io/twitter/follow/sayandeep_x?logo=twitter&style=for-the-badge" alt="sayandeep_x" /></a> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning web development, machine learning, python, java script<br><br>💬 Ask me about machine learning, mearn<br><br>📫 How to reach me sayandeep.dev@gmail.com
+🌱 I’m currently learning full stack development & python..<br><br>💬 Ask me about mathematics<br><br>📫 How to reach me: sayandeep.dev@gmail.com [OR] Socials..
 
 ## 🌐 Socials:
 <p align="left">
@@ -44,3 +44,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=amsayandeep&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img width="400%" src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966">
+
+![MasterHead](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
+
+
